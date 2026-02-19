@@ -30,9 +30,9 @@ WHAT the code does is:
 ESCHER VISUALIZATION:
 --------------------
 1. Go to: https://escher.github.io/
-2. Load a map (e.g., "Central metabolism")
+2. Load a central carbon metabolism map
 3. Load reaction data 
 4. Upload JSON from escher_maps/
-5. View fluxes on pathway
+5. View fluxes on the pathway
 
 ========================================
