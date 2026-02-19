@@ -5,6 +5,7 @@ YEAST-GEM FBA ANALYSIS - COMPLETE
 1. Put these files in the same folder:
    - yeast_FBA_complete.m
    - BiGGrxnDictionary.csv
+   - KnockoutOverexpressionMutantAnalysis.m
 
 2. In MATLAB,
    First run: initCobraToolbox
