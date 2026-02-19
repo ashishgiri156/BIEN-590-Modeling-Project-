@@ -9,6 +9,7 @@ YEAST-GEM FBA ANALYSIS - COMPLETE
 2. In MATLAB,
    First run: initCobraToolbox
    After that run: yeast_FBA_complete
+   Finally run: KnockoutOverexpressionMutantAnalysis
 
 3. Done.
 
