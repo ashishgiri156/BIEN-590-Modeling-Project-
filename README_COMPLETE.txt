@@ -14,25 +14,26 @@ YEAST-GEM FBA ANALYSIS - COMPLETE
 
 3. Done.
 
-OUTPUTS:
---------
+OUTPUTS FOR THE WILD-TYPE BASELINE ANALYSIS:
 - yeast_FBA_results.mat (all data)
 - figures/*.png (8 plots)
 - escher_maps/*.json (for Escher visualization)
 
-WHAT the code does is:
--------------
-- Runs FBA for 5 sugars at 6 uptake rates
-- Micro-aerobic conditions (O2 = 2 mmol/gDW/h)
-- Generates all plots automatically
-- Exports Escher JSONs with BiGG IDs
-
+   WHAT the code does is:
+   - Runs FBA for 5 sugars at 6 uptake rates
+   - Micro-aerobic conditions (O2 = 2 mmol/gDW/h)
+   - Generates all plots automatically
+   - Exports Escher JSONs with BiGG IDs
+-------------------------------------------------------------
 ESCHER VISUALIZATION:
---------------------
 1. Go to: https://escher.github.io/
 2. Load a central carbon metabolism map
 3. Load reaction data 
 4. Upload JSON from escher_maps/
 5. View fluxes on the pathway
 
-========================================
+---------------------------------------
+OUTPUTS FOR THE OVEREXPRESSION AND KNOCKOUT ANALYSIS 
+- biomass vs oxygen plot 
+- ethanol vs oxygen plot 
+
